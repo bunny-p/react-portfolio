@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.216bc48d.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f9aede65.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f9aede65.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e44c21d0.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e44c21d0.js.map",
+    "static/css/2.89f067aa.chunk.css": "/react-portfolio/static/css/2.89f067aa.chunk.css",
+    "static/js/2.d80e6e72.chunk.js": "/react-portfolio/static/js/2.d80e6e72.chunk.js",
+    "static/js/2.d80e6e72.chunk.js.map": "/react-portfolio/static/js/2.d80e6e72.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.605b230005af7471605ee95263b324fc.js": "/react-portfolio/precache-manifest.605b230005af7471605ee95263b324fc.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/react-portfolio/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.216bc48d.chunk.css.map": "/react-portfolio/static/css/main.216bc48d.chunk.css.map",
+    "static/js/2.d80e6e72.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d80e6e72.chunk.js.LICENSE.txt",
+    "static/media/ap1.jpg": "/react-portfolio/static/media/ap1.20d93362.jpg",
+    "static/media/ap2.jpg": "/react-portfolio/static/media/ap2.3869def5.jpg",
+    "static/media/home_me.jpg": "/react-portfolio/static/media/home_me.e10a1ab7.jpg",
+    "static/media/mcm1.jpg": "/react-portfolio/static/media/mcm1.81b0e56a.jpg",
+    "static/media/mcm2.jpg": "/react-portfolio/static/media/mcm2.1258fe6b.jpg",
+    "static/media/univ_bs.jpg": "/react-portfolio/static/media/univ_bs.726947bf.jpg",
+    "static/media/univ_sk1.jpg": "/react-portfolio/static/media/univ_sk1.5422cb36.jpg",
+    "static/media/univ_sk2.jpg": "/react-portfolio/static/media/univ_sk2.7af623e9.jpg",
+    "static/media/univ_sk3.jpg": "/react-portfolio/static/media/univ_sk3.1052765f.jpg",
+    "static/media/univ_sk4.jpg": "/react-portfolio/static/media/univ_sk4.6f7a429e.jpg",
+    "static/media/univ_sk5.jpg": "/react-portfolio/static/media/univ_sk5.d9ae5b3d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e44c21d0.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.d80e6e72.chunk.js",
+    "static/css/main.216bc48d.chunk.css",
+    "static/js/main.f9aede65.chunk.js"
+  ]
+}
