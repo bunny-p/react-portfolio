@@ -1,0 +1,174 @@
+.h_container{
+    margin:0;
+    padding:80px 0 20px 0;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 120px;
+    background:linear-gradient(#78ABDA 10%, #F7F7F7 90%);
+    //background-image: url("../img/bg_sea.jpg");
+    //background-size: 100%;
+    text-align: center;
+    .h-title-sec{
+        h1{
+            padding: 50px 0;
+            margin-bottom: 40px;
+            font-size: 37px;
+            font-weight: bold;
+            color:#000;
+            opacity: 0.7;
+        }
+        .h-desc{
+            margin:-60px 40px;
+            font-weight: bold;
+            color: rgb(94, 91, 91);
+            opacity: 0.9;
+            font-size: 16px;
+        }
+        .h-title-sec{
+            margin-bottom: 30px;
+        }
+        hr{
+            background: linear-gradient(to right, rgb(79, 97, 168), #44A69E);//#44A69E
+            height: 3px;
+            width:100px;
+        }
+    }
+    .h-img-sec{
+        .h-me{
+            width: 250px;
+            height: auto;
+            margin-top:20px;
+        }
+    }
+    
+}
+@media screen and (min-width:0px) and (max-width:500px){
+    .h-title-fst, .h-title-sec{
+        font-size: 27px;
+    }
+    .h-img-sec{
+        .h-me{
+            width: 160px;
+        }
+    }
+}
+// @media screen and (min-width:1209px) and (max-width:1294px){
+//     .h_container{
+//         width:100%;
+//         .h-title-sec{
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 35px;
+//             } 
+//         }
+           
+//     }
+// }
+
+// @media screen and (min-width:903px) and (max-width:1208px){
+//     .h_container{
+//         width:100%;
+//         .h-img-sec{
+//             .h-me{
+//                 width: 28%;
+//                 height: auto;
+//                 margin-top:30px;
+//                 margin-left:120px;
+//                 float:left;
+//             }
+//         }
+        
+//         .h-title-sec{
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 35px;
+//             } 
+//         }
+           
+//     }
+// }
+// @media screen and (min-width:792px) and (max-width:902px){
+//     .h_container{
+//         width:100%;
+//         .h-img-sec{
+//             text-align: center;
+//             .h-me{
+//                 width: 380px; 
+//                 height: auto;
+//                 margin-top:30px;
+//               //  margin-left: auto;margin-right: auto;
+                
+//                 margin-left:26%;
+//             }
+//         }
+//         .h-title-sec{
+//             clear:both;
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 31px;
+//                 display: block;
+//             } 
+//         }
+//     }
+// }
+// @media screen and (min-width:706px) and (max-width:791px){
+//     .h_container{
+//         width:100%; 
+//         .h-img-sec{
+//             .h-me{
+//                 width: 380px; 
+//                 height: auto;
+//                 margin:0 auto;
+               
+//                 margin-left:24%;
+//                 display:inline-block;
+//                 vertical-align:middle;
+//             }
+//         }
+//         .h-title-sec{
+//             clear:both;
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 31px;
+//             } 
+//         }
+//     }
+// }
+// @media screen and (min-width:629px) and (max-width:705px){
+//     .h_container{
+//         width:100%; 
+//         .h-img-sec{
+//             .h-me{
+//                 width: 380px; 
+//                 height: auto;
+//                 margin:0 auto;
+               
+//                 margin-left:20%;
+//                 display:inline-block;vertical-align:middle;
+//             }
+//         }
+//         .h-title-sec{
+//             clear:both;
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 31px;
+//             } 
+//         }
+//     }
+// }
+// @media screen and (min-width:0px) and (max-width:628px){
+//     .h_container{
+//         width:100%; 
+//         .h-img-sec{
+//             .h-me{
+//                 width: 380px; 
+//                 height: auto;
+//                 margin:0 auto;
+               
+//                 margin-left:10%;
+//                 display:inline-block;vertical-align:middle;
+//             }
+//         }
+//         .h-title-sec{
+//             clear:both;
+//             .h-title-fst, .h-title-sec{
+//                 font-size: 31px;
+//             } 
+//         }
+//     }
+// }
